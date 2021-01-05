@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MVillate&#39;s Portfolio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on MVillate&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Sun, 03 Jan 2021 01:37:58 +0100</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>This is the contact page</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://example.org/resume/</link>
+      <pubDate>Sun, 03 Jan 2021 01:37:42 +0100</pubDate>
+      
+      <guid>http://example.org/resume/</guid>
+      <description>This is the resumation page</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 02 Jan 2021 17:12:42 +0100</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>This is the about page</description>
+    </item>
+    
+  </channel>
+</rss>
